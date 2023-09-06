@@ -1,6 +1,6 @@
 # Chat_bot
-Chat bot for keeping customers satisfied 
-Welcome to the ChatBot repository! This project is a powerful and versatile chatbot built to facilitate natural language conversations with users. Whether you want to integrate it into your website, use it for customer support, or just have fun chatting, our ChatBot has got you covered.
+Chat bot for keeping customers satisfied...
+Welcome to the ChatBot repository! This project is a chatbot built to facilitate natural language conversations with users. Whether you want to integrate it into your website, use it for customer support, or just have fun chatting, our ChatBot has got you covered.
 
 Features
 
