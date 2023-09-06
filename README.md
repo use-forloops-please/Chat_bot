@@ -4,7 +4,7 @@ Welcome to the ChatBot repository! This project is a powerful and versatile chat
 
 Features
 
-Natural Language Processing (NLP): Our ChatBot is equipped with advanced NLP capabilities, allowing it to understand and respond to user input in a human-like manner.
+Natural Language Processing (NLP): Our ChatBot is equipped with advanced NLP capabilities thanks to openAI and GPT 3.5, allowing it to understand and respond to user input in a human-like manner.
 Customizable Responses: You have full control over the responses the ChatBot provides. Customize its behavior to match the tone and style of your application.
 Multi-Platform Support: The ChatBot can be easily integrated into various platforms including websites, mobile apps, and messaging services.
 Easy Integration: With our straightforward integration guide, you can have the ChatBot up and running in no time.
