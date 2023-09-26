@@ -2,7 +2,7 @@ import openai
 import tkinter as tk
 from tkinter import Scrollbar, Text, Entry, Button
 
-openai.api_key = "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"
+openai.api_key = "Add your own key to make this chat bot work"
 
 def chat_with_bot():
     user_input = user_entry.get()
